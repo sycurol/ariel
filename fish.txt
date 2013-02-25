@@ -1,0 +1,6 @@
+Dates,Species,Count
+2012-12-17,salmon,16
+2012-12-17,halibut,4
+2012-12-18,steelhead,1
+2013-01-01,squid,1
+2013-25-02, mermaid,1
